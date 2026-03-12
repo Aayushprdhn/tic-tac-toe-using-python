@@ -1,4 +1,3 @@
-1#You will have to import your other module in this module
 from logic import *
 
     
@@ -26,7 +25,5 @@ def main():
             return
 
 
-    
-# Program execution begins here
 if __name__ == '__main__':
     main()
